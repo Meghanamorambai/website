@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://www.textures4photoshop.com/tex/thumbs/fast-food-restaurant-background-with-chalkboard-texture-free-94.jpg');
+    background-size: cover;
+}
+
+header{ /* styles.css */
+   background-color: #333;
+   color: #fff;
+   padding: 8px;
+   text-align: center;
+   position: relative;
+   margin-bottom:0; }
+
+.location {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #fff;
+    font-size: 14px;
+    text-align:center;
+}
+.location img {
+    width: 30px; /* Adjust the size as needed */
+    height: auto;
+    margin-right: 5px;
+}
+#about us
+#contact{
+    margin-bottom: 0;
+}
+.search-bar {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  align-items: center;
+}
+
+.search-bar input {
+  padding: 5px;
+}
+
+.search-bar button {
+  padding: 5px 10px;
+  background-color: #555;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-left: 5px;
+}
+nav{
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+section {
+    padding: 20px;
+    text-align: center;
+      color: #fff;
+    font-family:;}
+.orderNow {
+    background-color: darkgreen;
+    color:white;
+    text-align: center;
+
+}
+  .button1{
+    width:49%;
+  }  
+  
+  #menu  a{
+    color: green;
+  }
+  #about a{
+    color: green;
+  }
+ #contact a{
+    color: green;
+ }
+    
+
+footer {
+  text-align: center;
+    margin-top: auto;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
